@@ -1,10 +1,9 @@
 import React from 'react'
 import './App.css';
-import {galleryData} from "./components/galleryData";
+import {galleryData} from "./galleryData";
 import {useState} from "react";
 import prev from './images/prev.png'
 import next from './images/next.png'
-import {logDOM} from "@testing-library/react";
 
 export default App;
 
